@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "492186011834",
+    "project_id": "zalego-refferal",
+    "storage_bucket": "zalego-refferal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492186011834:android:5d249d026e3e55b3a11a83",
+        "android_client_info": {
+          "package_name": "kapadokia.nyandoro.zalego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492186011834-7j0ujp1nj885duujcbsp8h61chinf9fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kapadokia.nyandoro.zalego",
+            "certificate_hash": "fd5a5a1258ce0af7bc26f9c7db258d33174663de"
+          }
+        },
+        {
+          "client_id": "492186011834-nicodutki0utp07ubmm18cl4ffpin01o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6erMT81VoRPqKDqL4MtpcluGny8gqIgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492186011834-nicodutki0utp07ubmm18cl4ffpin01o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
